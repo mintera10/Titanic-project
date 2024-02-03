@@ -1,2 +1,2 @@
 # Titanic-project
-This is the titanic project notebook for kaggle
+This is the titanic project notebook from kaggle
