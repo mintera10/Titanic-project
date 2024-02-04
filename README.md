@@ -1,2 +1,3 @@
 # Titanic-project
-This is the titanic project notebook from kaggle
+Titanic project from kaggle.
+Model's used : RandomForestClassifier and LogisticRegression
